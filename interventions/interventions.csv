@@ -111,12 +111,12 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 9999-01-01,Spain,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,,End of Self isolation,end,top right,Spain
 2020-03-09,Spain,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,Social distancing rules,Social distancing rules,start,top right,Spain
 9999-01-01,Spain,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right,Spain
-2020-03-29,Sweden,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event50,2,Ban of events > 50 people,Ban of events,start,top right,Sweden
-9999-01-01,Sweden,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event50,2,,End of Ban of events,end,top right,Sweden
-2020-03-10,Sweden,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,Self isolation,Self isolation,start,top right,Sweden
-9999-01-01,Sweden,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,,End of Self isolation,end,top right,Sweden
-2020-03-16,Sweden,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,Social distancing encouraged,Social distancing rules,start,top right,Sweden
-9999-01-01,Sweden,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right,Sweden
+2020-03-29,Sweden,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event50,1,Ban of events > 50 people,Ban of events,start,top right,Sweden
+9999-01-01,Sweden,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event50,1,,End of Ban of events,end,top right,Sweden
+2020-03-10,Sweden,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,2,Self isolation,Self isolation,start,top right,Sweden
+9999-01-01,Sweden,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,2,,End of Self isolation,end,top right,Sweden
+2020-03-16,Sweden,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,3,Social distancing encouraged,Social distancing rules,start,top right,Sweden
+9999-01-01,Sweden,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,3,,End of Social distancing rules,end,top right,Sweden
 2020-02-28,Switzerland,ban_public_events,,event1000,10,Ban of events > 1000 people,"Ban of events > 1000 people <br> SR 818.101.24 COVID-19 Ordinance 1, 28.2.2020",start,top right,Switzerland
 9999-01-01,Switzerland,ban_public_events,,event1000,10,,End of ban of events > 1000 people,end,top right,Switzerland
 2020-03-13,Switzerland,border_closure,,partialBorderClosure,9,Partial border closure,"partial border closure <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",start,top right,Switzerland
