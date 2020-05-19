@@ -1,56 +1,70 @@
 date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
-2020-03-10,Austria,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event10,2,Ban of events > 10 people,Ban of events,start,top right,Austria
-9999-01-01,Austria,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event10,2,,End of Ban of events,end,top right,Austria
+2020-03-10,Austria,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event10,5,Ban of events > 10 people,Ban of events,start,top right,Austria
+9999-01-01,Austria,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event10,5,,End of Ban of events,end,top right,Austria
 2020-03-16,Austria,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,Lockdown,Lockdown,start,top right,Austria
 9999-01-01,Austria,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,,End of Lockdown,end,top right,Austria
-2020-03-14,Austria,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,School Closure,School Closure,start,top right,Austria
-9999-01-01,Austria,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,,End of School Closure,end,top right,Austria
-2020-03-16,Austria,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,Self isolation,Self isolation,start,top right,Austria
-9999-01-01,Austria,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,,End of Self isolation,end,top right,Austria
-2020-03-16,Austria,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,Social distancing rules,Social distancing rules,start,top right,Austria
-9999-01-01,Austria,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right,Austria
-2020-03-12,Belgium,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,Ban of events,Ban of events,start,top right,Belgium
-9999-01-01,Belgium,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,,End of Ban of events,end,top right,Belgium
-2020-03-18,Belgium,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,Lockdown,Lockdown,start,top right,Belgium
-9999-01-01,Belgium,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,,End of Lockdown,end,top right,Belgium
-2020-03-14,Belgium,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,School Closure,School Closure,start,top right,Belgium
-9999-01-01,Belgium,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,,End of School Closure,end,top right,Belgium
+2020-03-14,Austria,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,4,School Closure,School Closure,start,top right,Austria
+9999-01-01,Austria,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,4,,End of School Closure,end,top right,Austria
+2020-03-16,Austria,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,2,Self isolation,Self isolation,start,top right,Austria
+9999-01-01,Austria,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,2,,End of Self isolation,end,top right,Austria
+2020-03-16,Austria,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,1,Social distancing rules,Social distancing rules,start,top right,Austria
+9999-01-01,Austria,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,1,,End of Social distancing rules,end,top right,Austria
+2020-03-12,Belgium,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,4,Ban of events,Ban of events,start,top right,Belgium
+9999-01-01,Belgium,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,4,,End of Ban of events,end,top right,Belgium
+2020-03-18,Belgium,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,1,Lockdown,Lockdown,start,top right,Belgium
+9999-01-01,Belgium,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,1,,End of Lockdown,end,top right,Belgium
+2020-03-14,Belgium,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,2,School Closure,School Closure,start,top right,Belgium
+9999-01-01,Belgium,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,2,,End of School Closure,end,top right,Belgium
 2020-03-10,Belgium,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,Self isolation,Self isolation,start,top right,Belgium
 9999-01-01,Belgium,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,,End of Self isolation,end,top right,Belgium
-2020-03-14,Belgium,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,Social distancing rules,Social distancing rules,start,top right,Belgium
-9999-01-01,Belgium,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right,Belgium
-2020-03-12,Denmark,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,2,Ban of events > 100 people,Ban of events,start,top right,Denmark
-9999-01-01,Denmark,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,2,,End of Ban of events,end,top right,Denmark
-2020-03-18,Denmark,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,Ban of gatherings >  10 people in public,Lockdown,start,top right,Denmark
-9999-01-01,Denmark,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,,End of Lockdown,end,top right,Denmark
-2020-03-13,Denmark,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,School Closure,School Closure,start,top right,Denmark
-9999-01-01,Denmark,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,,End of School Closure,end,top right,Denmark
-2020-03-12,Denmark,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,Self isolation,Self isolation,start,top right,Denmark
-9999-01-01,Denmark,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,,End of Self isolation,end,top right,Denmark
-2020-03-13,Denmark,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,Social distancing rules,Social distancing rules,start,top right,Denmark
-9999-01-01,Denmark,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right,Denmark
-2020-03-13,France,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,2,Ban of events > 100 people,Ban of events,start,top right,France
-9999-01-01,France,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,2,,End of Ban of events,end,top right,France
-2020-03-17,France,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,Lockdown,Lockdown: everyone needs to stay at home,start,top right,France
-9999-01-01,France,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,,End of Lockdown,end,top right,France
-2020-03-14,France,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,School Closure,School Closure,start,top right,France
-9999-01-01,France,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,,End of School Closure,end,top right,France
-2020-03-16,France,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,Self isolation,Self isolation,start,top right,France
-9999-01-01,France,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,,End of Self isolation,end,top right,France
-2020-03-16,France,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,Social distancing rules,Social distancing rules,start,top right,France
-9999-01-01,France,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right,France
-2020-03-22,Germany,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event1000,2,Ban of events > 1000 people,Ban of events,start,top right,Germany
+2020-03-14,Belgium,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,3,Social distancing rules,Social distancing rules,start,top right,Belgium
+9999-01-01,Belgium,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,3,,End of Social distancing rules,end,top right,Belgium
+2020-03-12,Denmark,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,5,Ban of events > 100 people,Ban of events,start,top right,Denmark
+9999-01-01,Denmark,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,5,,End of Ban of events,end,top right,Denmark
+2020-03-18,Denmark,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,1,Ban of gatherings >  10 people in public,Lockdown,start,top right,Denmark
+9999-01-01,Denmark,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,1,,End of Lockdown,end,top right,Denmark
+2020-03-13,Denmark,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,4,School Closure,School Closure,start,top right,Denmark
+9999-01-01,Denmark,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,4,,End of School Closure,end,top right,Denmark
+2020-03-12,Denmark,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,3,Self isolation,Self isolation,start,top right,Denmark
+9999-01-01,Denmark,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,3,,End of Self isolation,end,top right,Denmark
+2020-03-13,Denmark,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,2,Social distancing rules,Social distancing rules,start,top right,Denmark
+9999-01-01,Denmark,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,2,,End of Social distancing rules,end,top right,Denmark
+2020-03-13,France,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,5,Ban of events > 100 people,Ban of events,start,top right,France
+9999-01-01,France,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,5,,End of Ban of events,end,top right,France
+2020-03-17,France,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,1,Lockdown,Lockdown: everyone needs to stay at home,start,top right,France
+9999-01-01,France,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,1,,End of Lockdown,end,top right,France
+2020-03-14,France,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,4,School Closure,School Closure,start,top right,France
+9999-01-01,France,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,4,,End of School Closure,end,top right,France
+2020-03-16,France,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,3,Self isolation,Self isolation,start,top right,France
+9999-01-01,France,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,3,,End of Self isolation,end,top right,France
+2020-03-16,France,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,2,Social distancing rules,Social distancing rules,start,top right,France
+9999-01-01,France,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,2,,End of Social distancing rules,end,top right,France
+2020-03-22,Germany,ban_public_events,https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248,event1000,2,Ban of events > 1000 people,Ban of events,start,top right,Germany
 9999-01-01,Germany,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event1000,2,,End of Ban of events,end,top right,Germany
-2020-03-22,Germany,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,Ban of events,Ban of events,start,top right,Germany
-9999-01-01,Germany,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,,End of Ban of events,end,top right,Germany
-2020-03-22,Germany,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,Gatherings of > 2 people banned,Lockdown,start,top right,Germany
-9999-01-01,Germany,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,,End of Lockdown,end,top right,Germany
-2020-03-14,Germany,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,School Closure,School Closure,start,top right,Germany
-9999-01-01,Germany,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,,End of School Closure,end,top right,Germany
-2020-03-06,Germany,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,Self isolation,Self isolation,start,top right,Germany
-9999-01-01,Germany,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,,End of Self isolation,end,top right,Germany
-2020-03-12,Germany,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,Social distancing rules,Social distancing rules,start,top right,Germany
-9999-01-01,Germany,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right,Germany
+2020-03-22,Germany,ban_public_gathering,https://www.tagesschau.de/inland/kontaktverbot-coronavirus-101.html,ban_public_gathering,1,Gatherings of > 2 people banned,Gatherings > 2 people banned,start,top right,Germany
+9999-01-01,Germany,ban_public_gathering,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_gathering,1,,End of ban on gatherings > 2 people,end,top right,Germany
+2020-03-16,Germany,school_closure,https://www.tagesschau.de/inland/corona-schulschliessungen-101.html,school_closure,8,School Closure,School Closure,start,top right,Germany
+2020-04-27,Germany,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,8,,End of School Closure,end,top right,Germany
+2020-04-27,Germany,school_closure,https://www.focus.de/familie/eltern/schulausfall-und-schulbeginn-wo-montag-der-unterricht-startet-alle-bundeslaender_id_11704839.html,partial_school_closure,8,Partial School Closure,Partial School Closure,start,top right,Germany
+2020-06-15,Germany,school_closure,https://www.focus.de/familie/eltern/schulausfall-und-schulbeginn-wo-montag-der-unterricht-startet-alle-bundeslaender_id_11704839.html,partial_school_closure,8,,End of partial School Closure,end,top right,Germany
+2020-03-06,Germany,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,11,Self isolation,Self isolation in case of symptoms,start,top right,Germany
+9999-01-01,Germany,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,11,,End of Self isolation,end,top right,Germany
+2020-03-12,Germany,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,10,Social distancing rules,Social distancing rules,start,top right,Germany
+9999-01-01,Germany,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,10,,End of Social distancing rules,end,top right,Germany
+2020-03-16,Germany,border_closure,https://www.tagesschau.de/inland/corona-grenzschliessung-deutschland-101.html,partialBorderClosure,9,Border closure,Partial border closure,start,top right,Germany
+2020-06-15,Germany,border_closure,,partialBorderClosure,9,,End of partial border closure,end,top right,Germany
+2020-04-29,Germany,mask,,mask,0,Masks mandatory in public,Masks mandatory in public spaces,start,top right,Germany
+9999-01-01,Germany,mask,,mask,0,,End of mandatory masks,end,top right,Germany
+2020-03-22,Germany,lockdown,https://www.tagesschau.de/inland/kontaktverbot-coronavirus-101.html,closureAll,3,Closure of all stores and markets,Closure of all stores and markets ,start,top right,Bavaria
+2020-05-11,Germany,lockdown,https://www.infektionsschutz.de/coronavirus/,closureAll,3,,End of closure of all stores and markets,end,top right,Bavaria
+2020-03-22,Germany,social_distancing,,closureMuseum,4,"Closure of museums, zoos, etc.","Closure of museums, zoos, etc.",start,top right,Bavaria
+2020-05-11,Germany,social_distancing,,closureMuseum,4,,"End of closure of museums, zoos etc.",end,top right,Bavaria
+2020-03-22,Germany,social_distancing,https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248,closureBars,5,Closure of restaurants and bars,Closure of restaurants and bars,start,top right,Bavaria
+2020-05-18,Germany,social_distancing,"https://www.br.de/nachrichten/bayern/corona-krise-bayern-legt-restaurant-regeln-fest,RymLnoP",closureBars,5,Opening of bars in Bavaria ,End of closure of restaurants and bars <br>,end,top left,Bavaria
+2020-03-20,Germany,lockdown,https://www.tagesschau.de/inland/soeder-363.html,lockdown,7,Lockdown Bavaria,Lockdown in Bavaria,start,top right,Bavaria
+2020-05-05,Germany,lockdown,https://www.bayreuther-tagblatt.de/nachrichten_meldungen_news/ausgangsbeschraenkung-in-bayern-das-ist-nach-den-lockerungen-erlaubt-familienbesuche-krankenbesuche-schulen-gastronomie/,lockdown,7,,End of lockdown in Bavaria,end,top right,Bavaria
+2020-03-22,Germany,lockdown,https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248,lockdown,6,Nationwide lockdown,Nationwide lockdown,start,top right,Germany
+2020-05-05,Germany,lockdown,https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248,lockdown,6,,End of lockdown ,end,top right,Germany
 2020-03-19,Greece,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event10,2,Ban of events > 10 people,Ban of events,start,top right,Greece
 9999-01-01,Greece,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event10,2,,End of Ban of events,end,top right,Greece
 2020-03-23,Greece,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,Lockdown,Lockdown,start,top right,Greece
@@ -63,24 +77,24 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 9999-01-01,Greece,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right,Greece
 2020-03-09,Italy,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,Ban of events,Ban of events,start,top right,Italy
 9999-01-01,Italy,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,,End of Ban of events,end,top right,Italy
-2020-03-11,Italy,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,Lockdown,Lockdown,start,top right,Italy
-9999-01-01,Italy,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,,End of Lockdown,end,top right,Italy
-2020-03-05,Italy,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,School Closure,School Closure,start,top right,Italy
-9999-01-01,Italy,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,,End of School Closure,end,top right,Italy
-2020-03-09,Italy,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,Self isolation,Self isolation,start,top right,Italy
-9999-01-01,Italy,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,,End of Self isolation,end,top right,Italy
+2020-03-11,Italy,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,1,Lockdown,Lockdown,start,top right,Italy
+9999-01-01,Italy,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,1,,End of Lockdown,end,top right,Italy
+2020-03-05,Italy,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,5,School Closure,School Closure,start,top right,Italy
+9999-01-01,Italy,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,5,,End of School Closure,end,top right,Italy
+2020-03-09,Italy,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,3,Self isolation,Self isolation,start,top right,Italy
+9999-01-01,Italy,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,3,,End of Self isolation,end,top right,Italy
 2020-03-09,Italy,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,Social distancing rules,Social distancing rules,start,top right,Italy
 9999-01-01,Italy,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right,Italy
-2020-03-12,Netherlands,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,2,Ban of events > 100 people,Ban of events,start,top right,Netherlands
-9999-01-01,Netherlands,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,2,,End of Ban of events,end,top right,Netherlands
-2020-03-12,Netherlands,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,Lockdown,Lockdown,start,top right,Netherlands
-9999-01-01,Netherlands,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,,End of Lockdown,end,top right,Netherlands
-2020-03-14,Netherlands,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,School Closure,School Closure,start,top right,Netherlands
-9999-01-01,Netherlands,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,,End of School Closure,end,top right,Netherlands
-2020-03-12,Netherlands,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,Self isolation,Self isolation,start,top right,Netherlands
-9999-01-01,Netherlands,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,,End of Self isolation,end,top right,Netherlands
-2020-03-23,Netherlands,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,Social distancing rules,Social distancing rules,start,top right,Netherlands
-9999-01-01,Netherlands,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right,Netherlands
+2020-03-12,Netherlands,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,5,Ban of events > 100 people,Ban of events,start,top right,Netherlands
+9999-01-01,Netherlands,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,5,,End of Ban of events,end,top right,Netherlands
+2020-03-12,Netherlands,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,4,Lockdown,Lockdown,start,top right,Netherlands
+9999-01-01,Netherlands,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,4,,End of Lockdown,end,top right,Netherlands
+2020-03-14,Netherlands,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,2,School Closure,School Closure,start,top right,Netherlands
+9999-01-01,Netherlands,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,2,,End of School Closure,end,top right,Netherlands
+2020-03-12,Netherlands,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,3,Self isolation,Self isolation,start,top right,Netherlands
+9999-01-01,Netherlands,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,3,,End of Self isolation,end,top right,Netherlands
+2020-03-23,Netherlands,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,1,Social distancing rules,Social distancing rules,start,top right,Netherlands
+9999-01-01,Netherlands,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,1,,End of Social distancing rules,end,top right,Netherlands
 2020-03-12,Norway,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,Ban of events,Ban of events,start,top right,Norway
 9999-01-01,Norway,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,,End of Ban of events,end,top right,Norway
 2020-03-24,Norway,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,Lockdown,Lockdown,start,top right,Norway
@@ -105,18 +119,18 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 9999-01-01,Spain,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,,End of Ban of events,end,top right,Spain
 2020-03-14,Spain,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,Lockdown,Lockdown,start,top right,Spain
 9999-01-01,Spain,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,,End of Lockdown,end,top right,Spain
-2020-03-13,Spain,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,School Closure,School Closure,start,top right,Spain
-9999-01-01,Spain,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,,End of School Closure,end,top right,Spain
-2020-03-17,Spain,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,Self isolation,Self isolation,start,top right,Spain
-9999-01-01,Spain,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,,End of Self isolation,end,top right,Spain
-2020-03-09,Spain,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,Social distancing rules,Social distancing rules,start,top right,Spain
-9999-01-01,Spain,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right,Spain
+2020-03-13,Spain,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,4,School Closure,School Closure,start,top right,Spain
+9999-01-01,Spain,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,4,,End of School Closure,end,top right,Spain
+2020-03-17,Spain,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,1,Self isolation,Self isolation,start,top right,Spain
+9999-01-01,Spain,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,1,,End of Self isolation,end,top right,Spain
+2020-03-09,Spain,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,5,Social distancing rules,Social distancing rules,start,top right,Spain
+9999-01-01,Spain,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,5,,End of Social distancing rules,end,top right,Spain
 2020-03-29,Sweden,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event50,1,Ban of events > 50 people,Ban of events,start,top right,Sweden
 9999-01-01,Sweden,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event50,1,,End of Ban of events,end,top right,Sweden
-2020-03-10,Sweden,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,2,Self isolation,Self isolation,start,top right,Sweden
-9999-01-01,Sweden,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,2,,End of Self isolation,end,top right,Sweden
-2020-03-16,Sweden,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,3,Social distancing encouraged,Social distancing rules,start,top right,Sweden
-9999-01-01,Sweden,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,3,,End of Social distancing rules,end,top right,Sweden
+2020-03-10,Sweden,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,3,Self isolation,Self isolation,start,top right,Sweden
+9999-01-01,Sweden,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,3,,End of Self isolation,end,top right,Sweden
+2020-03-16,Sweden,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,2,Social distancing encouraged,Social distancing rules,start,top right,Sweden
+9999-01-01,Sweden,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,2,,End of Social distancing rules,end,top right,Sweden
 2020-02-28,Switzerland,ban_public_events,,event1000,10,Ban of events > 1000 people,"Ban of events > 1000 people <br> SR 818.101.24 COVID-19 Ordinance 1, 28.2.2020",start,top right,Switzerland
 9999-01-01,Switzerland,ban_public_events,,event1000,10,,End of ban of events > 1000 people,end,top right,Switzerland
 2020-03-13,Switzerland,border_closure,,partialBorderClosure,9,Partial border closure,"partial border closure <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",start,top right,Switzerland
@@ -143,10 +157,10 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 9999-01-01,Switzerland,testing,,testing2,0,,stop testing of all symptomatic patients,end,top right,Switzerland
 2020-03-24,United Kingdom,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,Ban of events,Ban of events,start,top right,United Kingdom
 9999-01-01,United Kingdom,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,,End of Ban of events,end,top right,United Kingdom
-2020-03-24,United Kingdom,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,gathering2,3,Ban of gatherings > 2 people,Lockdown,start,top right,United Kingdom
-9999-01-01,United Kingdom,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,gathering2,3,,End of Lockdown,end,top right,United Kingdom
-2020-03-21,United Kingdom,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,School Closure,School Closure,start,top right,United Kingdom
-9999-01-01,United Kingdom,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,,End of School Closure,end,top right,United Kingdom
+2020-03-24,United Kingdom,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,gathering2,1,Ban of gatherings > 2 people,Lockdown,start,top right,United Kingdom
+9999-01-01,United Kingdom,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,gathering2,1,,End of Lockdown,end,top right,United Kingdom
+2020-03-21,United Kingdom,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,3,School Closure,School Closure,start,top right,United Kingdom
+9999-01-01,United Kingdom,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,3,,End of School Closure,end,top right,United Kingdom
 2020-03-12,United Kingdom,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,Advice to self isolate,Advice to self isolate if experiencing symptoms,start,top right,United Kingdom
 9999-01-01,United Kingdom,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,,End of Self isolation,end,top right,United Kingdom
 2020-03-16,United Kingdom,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,Social distancing rules,Social distancing rules,start,top right,United Kingdom
