@@ -125,7 +125,7 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-05-03,Italy,factory_closure,,factory_closure,1,,End of factory closure,end,top right,Italy
 2020-04-06,Italy,mask,,mask,0,Masks mandatory in some provinces,"Masks mandatory in public spaces in Lombardy, Veneto",start,top right,Lombardia
 9999-01-01,Italy,mask,,mask,0,,End of mandatory masks,end,top right,Lombardia
-2020-03-12,Netherlands,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,8,Ban of events > 100 people,Ban of events,start,top right,Netherlands
+2020-03-12,Netherlands,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,8,Ban of events > 100 people,Ban of events,start,top,Netherlands
 2020-03-23,Netherlands,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,8,,End of Ban of events,end,top right,Netherlands
 2020-03-23,Netherlands,ban_public_events,https://www.volkskrant.nl/nieuws-achtergrond/bijeenkomsten-tot-1-juni-verboden-burgemeesters-mogen-handhaven-met-forse-boetes~b41b8508/,event,8,Ban of all events,Ban of events,start,top right,Netherlands
 9999-01-01,Netherlands,ban_public_events,https://www.volkskrant.nl/nieuws-achtergrond/bijeenkomsten-tot-1-juni-verboden-burgemeesters-mogen-handhaven-met-forse-boetes~b41b8508/,event,8,,End of Ban of events,end,top right,Netherlands
