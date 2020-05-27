@@ -16,7 +16,7 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-03-16,Austria,lockdown,,closureAll,3,Closure of all stores and markets,Closure of all stores and markets ,start,top right,Austria
 2020-04-13,Austria,lockdown,Easter monday 13.4 is last day,closureAll,3,,End of closure of all stores and markets,end,top right,Austria
 2020-04-14,Austria,lockdown,,closureAll,3,"Closure of shopping centers, larger stores, hairdressers","Closure of shopping centers, larger stores, hairdressers",start,top right,Austria
-2020-30-04,Austria,lockdown,Tag der Arbeit (1.5) first day of reopening,closureAll,3,,End of closure of all stores and markets,end,top right,Austria
+2020-04-30,Austria,lockdown,Tag der Arbeit (1.5) first day of reopening,closureAll,3,,End of closure of all stores and markets,end,top right,Austria
 2020-03-16,Austria,social_distancing,,closureMuseum,4,"Closure of museums, zoos, etc.","Closure of museums, zoos, etc.",start,top right,Austria
 9999-01-01,Austria,social_distancing,,closureMuseum,4,,"End of closure of museums, zoos etc.",end,top right,Austria
 2020-03-16,Austria,social_distancing,,closureBars,5,Closure of restaurants and bars,Closure of restaurants and bars,start,top right,Austria
@@ -101,20 +101,20 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 9999-01-01,Greece,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,,End of Self isolation,end,top right,Greece
 2020-03-16,Greece,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,Social distancing rules,Social distancing rules,start,top right,Greece
 9999-01-01,Greece,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right,Greece
-2020-03-08,Italy,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,Ban of events,Ban of events,start,top right,Italy
-9999-01-01,Italy,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,,End of Ban of events,end,top right,Italy
+2020-03-08,Italy,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,4,Ban of events,Ban of events,start,top right,Italy
+9999-01-01,Italy,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,4,,End of Ban of events,end,top right,Italy
 2020-02-22,Italy,lockdown,,lockdown_towns,9,Lockdown municipalities in Northern Italy,Lockdown in Northern Italian towns,start,top,Italy
 2020-03-07,Italy,lockdown,ends the day before the next start,lockdown_towns,9,,,end,top right,Italy
-2020-03-08,Italy,lockdown,,lockdown_north,9,Lockdown provinces in Northern Italy,Lockdown provinces in Northern Italy,start,top,Italy
+2020-03-08,Italy,lockdown,,lockdown_north,9,Lockdown provinces in Northern Italy,Lockdown provinces in Northern Italy,start,bottom,Italy
 2020-03-08,Italy,lockdown,ends the day before the next start,lockdown_north,9,,,end,top right,Italy
-2020-03-09,Italy,lockdown,,lockdown,8,Nationwide Lockdown,Nationwide Lockdown,start,top right,Italy
-2020-05-03,Italy,lockdown,ends the day before the next start,lockdown,8,,,end,top right,Italy
-2020-05-04,Italy,lockdown,,lockdown_light,8,Lockdown eased slightly,No travel across regions; but within municipality is allowed again,start,top right,Italy
-9999-01-01,Italy,lockdown,,lockdown_light,8,,End of Lockdown,end,top right,Italy
-2020-03-11,Italy,lockdown,,closureAll,5,Closure of all non-essential shops,Closure of all non-essential shops,start,top right,Italy
-2020-05-17,Italy,lockdown,,closureAll,5,,End of closure of non-essential shops,end,top right,Italy
-2020-03-08,Italy,social_distancing,,closureBars,4,"Closure of theatres, bars, cinemas","Closure of theatres, bars, cinemas",start,top right,Italy
-2020-05-17,Italy,social_distancing,,closureBars,4,,End of closure of bars <br>,end,top left,Italy
+2020-03-09,Italy,lockdown,,lockdown,9,Nationwide Lockdown,Nationwide Lockdown,start,top right,Italy
+2020-05-03,Italy,lockdown,ends the day before the next start,lockdown,9,,,end,top right,Italy
+2020-05-04,Italy,lockdown,,lockdown_light,9,Lockdown eased slightly,No travel across regions; but within municipality is allowed again,start,top right,Italy
+9999-01-01,Italy,lockdown,,lockdown_light,9,,End of Lockdown,end,top right,Italy
+2020-03-11,Italy,lockdown,,closureAll,2,Closure of all non-essential shops,Closure of all non-essential shops,start,top right,Italy
+2020-05-17,Italy,lockdown,,closureAll,2,,End of closure of non-essential shops,end,top right,Italy
+2020-03-08,Italy,social_distancing,,closureBars,5,"Closure of theatres, bars, cinemas","Closure of theatres, bars, cinemas",start,top right,Italy
+2020-05-17,Italy,social_distancing,,closureBars,5,,End of closure of bars <br>,end,top left,Italy
 2020-02-24,Italy,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure_north,7,School Closure in parts of the country,School Closure in parts of the country,start,top right,Italy
 9999-01-01,Italy,school_closure,,school_closure_north,7,,End of School Closure,end,top right,Italy
 2020-03-05,Italy,school_closure,https://www.corriere.it/scuola/20_marzo_04/coronavirus-scuole-chiuse-tutta-italia-decisione-governo-entro-stasera-e7ba0614-5e12-11ea-8e26-25d9a5210d01.shtml?refresh_ce-cp,school_closure,6,Nationwide School Closure,Nationwide School Closure,start,top right,Italy
