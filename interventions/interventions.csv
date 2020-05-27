@@ -63,7 +63,7 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-05-10,France,school_closure,,school_closure,4,,End of School Closure,end,top right,France
 2020-05-11,France,gathering10,one of the measures maintained after lockdown,gathering10,2,Ban of gatherings >  10 people in public,Ban of gatherings >  10 people in public,start,top left,France
 9999-01-01,France,gathering10,,gathering10,2,,End of gathering ban,end,top right,France
-2020-05-13,France,lockdown_light,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown_light,1,Ban of travel > 100 km away from home,Ban of travel > 100 km away from home,start,top left,France
+2020-05-11,France,lockdown_light,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown_light,1,Ban of travel > 100 km away from home,Ban of travel > 100 km away from home,start,top left,France
 9999-01-01,France,lockdown_light,,lockdown_light,1,,End of travel ban,end,top right,France
 2020-03-22,Germany,ban_public_events,https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248,event1000,2,Ban of events > 1000 people,Ban of events,start,top right,Germany
 2020-08-31,Germany,ban_public_events,,event1000,2,,End of Ban of events,end,top right,Germany
