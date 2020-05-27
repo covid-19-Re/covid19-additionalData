@@ -24,15 +24,15 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-03-14,Belgium,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,7,Ban of events,Ban of events,start,top right,Belgium
 9999-01-01,Belgium,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,7,,End of Ban of events,end,top right,Belgium
 2020-03-18,Belgium,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,2,Lockdown,Lockdown,start,top right,Belgium
-2020-05-11,Belgium,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,2,,End of Lockdown,end,top right,Belgium
+2020-05-10,Belgium,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,2,,End of Lockdown,end,top right,Belgium
 2020-03-18,Belgium,lockdown,,closureAll,3,Closure of all stores and markets,Closure of all stores and markets ,start,top right,Belgium
-2020-05-11,Belgium,lockdown,https://www.bbc.com/news/world-europe-52421723,closureAll,3,,End of closure of all stores and markets,end,top right,Belgium
+2020-05-10,Belgium,lockdown,https://www.bbc.com/news/world-europe-52421723,closureAll,3,,End of closure of all stores and markets,end,top right,Belgium
 2020-03-14,Belgium,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,6,School Closure,School Closure,start,top right,Belgium
-2020-05-18,Belgium,school_closure,https://www.bbc.com/news/world-europe-52421723,school_closure,6,,End of School Closure,end,top right,Belgium
+2020-05-17,Belgium,school_closure,https://www.bbc.com/news/world-europe-52421723,school_closure,6,,End of School Closure,end,top right,Belgium
 2020-03-10,Belgium,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,8,Self isolation,Self isolation,start,top right,Belgium
 9999-01-01,Belgium,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,8,,End of Self isolation,end,top right,Belgium
 2020-03-14,Belgium,social_distancing,,closureMuseum,5,"Closure of museums, zoos, etc.","Closure of museums, zoos, etc.",start,top right,Belgium
-2020-05-18,Belgium,social_distancing,https://www.politico.eu/article/coronavirus-belgium-schools-reopen-lockdown-rules-ease/,closureMuseum,5,,"End of closure of museums, zoos etc.",end,top right,Belgium
+2020-05-17,Belgium,social_distancing,https://www.politico.eu/article/coronavirus-belgium-schools-reopen-lockdown-rules-ease/,closureMuseum,5,,"End of closure of museums, zoos etc.",end,top right,Belgium
 2020-03-14,Belgium,social_distancing,,closureBars,4,Closure of restaurants and bars,Closure of restaurants and bars,start,top right,Belgium
 2020-06-08,Belgium,social_distancing,https://www.politico.eu/article/coronavirus-belgium-schools-reopen-lockdown-rules-ease/,closureBars,4,,End of closure of restaurants and bars <br>,end,top left,Belgium
 2020-03-20,Belgium,border_closure,,partialBorderClosure,1,Border closure,Border closure,start,top right,Belgium
@@ -56,9 +56,9 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-03-13,France,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,6,Ban of events > 100 people,Ban of events,start,top right,France
 2020-05-10,France,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,6,,End of Ban of events,end,top right,France
 2020-03-17,France,lockdown,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France#Lockdown,lockdown,3,Lockdown: Ban on all nonessential travel,Lockdown: everyone needs to stay at home,start,top right,France
-2020-05-11,France,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,,End of Lockdown,end,top right,France
+2020-05-10,France,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,,End of Lockdown,end,top right,France
 2020-03-15,France,lockdown,,closureAll,5,Closure of all nonessential stores and markets,Closure of all stores and markets ,start,top right,France
-2020-05-11,France,lockdown,https://www.bbc.com/news/world-europe-52421723,closureAll,5,,End of closure of all stores and markets,end,top right,France
+2020-05-10,France,lockdown,https://www.bbc.com/news/world-europe-52421723,closureAll,5,,End of closure of all stores and markets,end,top right,France
 2020-03-16,France,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,4,School Closure,School Closure,start,top right,France
 2020-05-10,France,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,4,,End of School Closure,end,top right,France
 2020-05-11,France,gathering10,https://mrc-ide.github.io/covid19estimates/#/interventions,gathering10,2,Ban of gatherings >  10 people in public,Ban of gatherings >  10 people in public,start,top left,France
@@ -82,11 +82,11 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-04-29,Germany,mask,,mask,0,Masks mandatory in public,Masks mandatory in public spaces,start,top right,Germany
 9999-01-01,Germany,mask,,mask,0,,End of mandatory masks,end,top right,Germany
 2020-03-22,Germany,lockdown,https://www.tagesschau.de/inland/kontaktverbot-coronavirus-101.html,closureAll,3,Closure of all stores and markets,Closure of all stores and markets ,start,top right,Bavaria
-2020-05-11,Germany,lockdown,https://www.infektionsschutz.de/coronavirus/,closureAll,3,,End of closure of all stores and markets,end,top right,Bavaria
+2020-05-10,Germany,lockdown,https://www.infektionsschutz.de/coronavirus/,closureAll,3,,End of closure of all stores and markets,end,top right,Bavaria
 2020-03-22,Germany,social_distancing,,closureMuseum,4,"Closure of museums, zoos, etc.","Closure of museums, zoos, etc.",start,top right,Bavaria
-2020-05-11,Germany,social_distancing,,closureMuseum,4,,"End of closure of museums, zoos etc.",end,top right,Bavaria
+2020-05-10,Germany,social_distancing,,closureMuseum,4,,"End of closure of museums, zoos etc.",end,top right,Bavaria
 2020-03-22,Germany,social_distancing,https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248,closureBars,5,Closure of restaurants and bars,Closure of restaurants and bars,start,top right,Bavaria
-2020-05-18,Germany,social_distancing,"https://www.br.de/nachrichten/bayern/corona-krise-bayern-legt-restaurant-regeln-fest,RymLnoP",closureBars,5,Opening of bars in Bavaria ,End of closure of restaurants and bars <br>,end,top left,Bavaria
+2020-05-17,Germany,social_distancing,"https://www.br.de/nachrichten/bayern/corona-krise-bayern-legt-restaurant-regeln-fest,RymLnoP",closureBars,5,Opening of bars in Bavaria ,End of closure of restaurants and bars <br>,end,top left,Bavaria
 2020-03-20,Germany,lockdown,https://www.tagesschau.de/inland/soeder-363.html,lockdownB,7,Lockdown Bavaria,Lockdown in Bavaria,start,top right,Bavaria
 2020-05-05,Germany,lockdown,https://www.bayreuther-tagblatt.de/nachrichten_meldungen_news/ausgangsbeschraenkung-in-bayern-das-ist-nach-den-lockerungen-erlaubt-familienbesuche-krankenbesuche-schulen-gastronomie/,lockdownB,7,,End of lockdown in Bavaria,end,top right,Bavaria
 2020-03-22,Germany,lockdown,https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248,lockdown,6,Nationwide lockdown,Nationwide lockdown,start,top right,Germany
@@ -112,9 +112,9 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-05-04,Italy,lockdown,,lockdown_light,8,Lockdown eased slightly,No travel across regions; but within municipality is allowed again,start,top right,Italy
 9999-01-01,Italy,lockdown,,lockdown_light,8,,End of Lockdown,end,top right,Italy
 2020-03-11,Italy,lockdown,,closureAll,5,Closure of all non-essential shops,Closure of all non-essential shops,start,top right,Italy
-2020-05-18,Italy,lockdown,,closureAll,5,,End of closure of non-essential shops,end,top right,Italy
+2020-05-17,Italy,lockdown,,closureAll,5,,End of closure of non-essential shops,end,top right,Italy
 2020-03-08,Italy,social_distancing,,closureBars,4,"Closure of theatres, bars, cinemas","Closure of theatres, bars, cinemas",start,top right,Italy
-2020-05-18,Italy,social_distancing,,closureBars,4,,End of closure of bars <br>,end,top left,Italy
+2020-05-17,Italy,social_distancing,,closureBars,4,,End of closure of bars <br>,end,top left,Italy
 2020-02-24,Italy,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure_north,7,School Closure in parts of the country,School Closure in parts of the country,start,top right,Italy
 9999-01-01,Italy,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure_north,7,,End of School Closure,end,top right,Italy
 2020-03-05,Italy,school_closure,https://www.corriere.it/scuola/20_marzo_04/coronavirus-scuole-chiuse-tutta-italia-decisione-governo-entro-stasera-e7ba0614-5e12-11ea-8e26-25d9a5210d01.shtml?refresh_ce-cp,school_closure,6,Nationwide School Closure,Nationwide School Closure,start,top right,Italy
@@ -140,7 +140,7 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-03-16,Netherlands,social_distancing,,closureBars,4,"Closure of restaurants, bars, coffeeshops",Closure of restaurants and bars,start,top right,Netherlands
 2020-06-01,Netherlands,social_distancing,https://nos.nl/collectie/13824/artikel/2334451-versoepelingen-een-feit-dit-verandert-er-vanaf-1-juni,closureBars,4,,End of closure of restaurants and bars <br>,end,top left,Netherlands
 2020-03-16,Netherlands,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,3,School Closure,School Closure,start,top right,Netherlands
-2020-05-11,Netherlands,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,3,,End of School Closure,end,top right,Netherlands
+2020-05-10,Netherlands,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,3,,End of School Closure,end,top right,Netherlands
 2020-05-11,Netherlands,partial_school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,partial_school_closure,3,Partial School Closure,Primary schools are open; Secondary schools remain closed,start,top right,Netherlands
 2020-06-02,Netherlands,partial_school_closure,https://nos.nl/collectie/13824/artikel/2334451-versoepelingen-een-feit-dit-verandert-er-vanaf-1-juni,partial_school_closure,3,,End of School Closure,end,top right,Netherlands
 2020-03-12,Netherlands,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,7,Self isolation,Self isolation,start,top right,Netherlands
@@ -174,17 +174,17 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-05-02,Spain,lockdown,https://www.aljazeera.com/news/2020/05/spain-emerges-lockdown-strict-measures-ease-200502115013183.html,lockdown_light,8,First Lockdown restrictions lifted,People allowed outside for sports,start,top right,Spain
 9999-01-01,Spain,lockdown,,lockdown_light,8,,End of Nationwide state of alarm,end,top right,Spain
 2020-03-14,Spain,social_distancing,,closureShops,6,Closure of all stores and markets in certain provinces,"Closure of all stores and markets in Asturias, Catalonia, Cantabria, Galicia, Madrid, Murcia and the Basque Country",start,top right,Spain
-2020-05-11,Spain,social_distancing,,closureShops,6,,End of closure of all stores and markets,end,top right,Spain
+2020-05-10,Spain,social_distancing,,closureShops,6,,End of closure of all stores and markets,end,top right,Spain
 2020-03-14,Spain,social_distancing,https://english.elpais.com/society/2020-03-15/spains-state-of-alarm-the-key-measures-that-are-now-in-place.html,closureZoo,5,"Closure of museums, zoos, etc.",Closure of museums etc,start,top right,Spain
 9999-01-01,Spain,social_distancing,,closureZoo,5,,End of closure of museums,end,top right,Spain
 2020-03-14,Spain,social_distancing,https://english.elpais.com/society/2020-03-15/spains-state-of-alarm-the-key-measures-that-are-now-in-place.html,closureBars,3,Closure of restaurants and bars,Closure of restaurants and bars,start,top right,Spain
-2020-05-11,Spain,social_distancing,,closureBars,3,,End of closure of restaurants and bars,end,top right,Spain
+2020-05-10,Spain,social_distancing,,closureBars,3,,End of closure of restaurants and bars,end,top right,Spain
 2020-03-12,Spain,school_closure,https://elpais.com/sociedad/2020-03-12/suspendidas-las-clases-en-todos-los-centros-educativos-de-euskadi.html,school_closure,9,School Closure,School Closure,start,top right,Spain
 9999-01-01,Spain,school_closure,,school_closure,9,,End of School Closure,end,top right,Spain
 2020-03-28,Spain,social_distancing,,closureAll,1,Ban of all nonessential activity,Ban of all nonessential activity,start,top right,Spain
 2020-04-13,Spain,social_distancing,,closureAll,1,,,end,top right,Spain
 2020-04-13,Spain,social_distancing,,closureAll,1,Construction workers allowed to work,Construction workers allowed to work,start,top right,Spain
-2020-05-18,Spain,social_distancing,https://ohmygoodguide.com/spain-reopening-plan-coronavirus-lockdown-easing/,closureAll,1,,End of ban of all nonessential activity,end,top right,Spain
+2020-05-17,Spain,social_distancing,https://ohmygoodguide.com/spain-reopening-plan-coronavirus-lockdown-easing/,closureAll,1,,End of ban of all nonessential activity,end,top right,Spain
 2020-03-11,Sweden,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event500,3,Ban of events > 500 people,Ban of events,start,top right,Sweden
 2020-03-29,Sweden,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event500,3,,End of Ban of events,end,top right,Sweden
 2020-03-29,Sweden,ban_public_events,https://www.krisinformation.se/nyheter/2020/mars/ytterligare-begransning-sammankomster,event50,3,Ban of events > 50 people,Ban of events,start,top right,Sweden
@@ -232,7 +232,7 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-05-10,United Kingdom,social_distancing,,social_distancing_light,7,Stay Alert,"Those who can not work from home are allowed to go again; government slogan changed to ""Stay Alert""",start,top right,United Kingdom
 9999-01-01,United Kingdom,social_distancing,,social_distancing_light,7,,End of Social distancing rules,end,top right,United Kingdom
 2020-03-20,United Kingdom,social_distancing,,closureBars,6,Closure of restaurants and pubs,Closure of restaurants and pubs,start,top right,United Kingdom
-2020-05-11,United Kingdom,social_distancing,,closureBars,6,,End of closure of restaurants and pubs <br>,end,top right,United Kingdom
+2020-05-10,United Kingdom,social_distancing,,closureBars,6,,End of closure of restaurants and pubs <br>,end,top right,United Kingdom
 2020-03-24,United Kingdom,social_distancing,https://www.bbc.com/news/uk-52012432,closureAll,4,Closure of all stores and markets,Closure of all stores and markets ,start,top right,United Kingdom
 9999-01-01,United Kingdom,social_distancing,,closureAll,4,,End of closure of all stores and markets,end,top right,United Kingdom
 2020-03-20,United Kingdom,social_distancing,,closureZoo,5,"Closure of museums, entertainment venues, etc.","Closure of museums, entertainment venues, etc.",start,top right,United Kingdom
