@@ -6,9 +6,11 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-03-16,Austria,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,6,Lockdown,Lockdown,start,top right,Austria
 2020-04-30,Austria,lockdown,https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Aktuelle-Ma%C3%9Fnahmen.html,lockdown,6,,End of Lockdown,end,top right,Austria
 2020-03-16,Austria,school_closure,https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Aktuelle-Ma%C3%9Fnahmen.html,school_closure,7,School Closure,School Closure,start,top right,Austria
-2020-05-17,Austria,school_closure,,school_closure,7,,End of School Closure,end,top right,Austria
-2020-05-18,Austria,partial_school_closure,,partial_school_closure,7,Partial School Closure,Final year students allowed back,start,top right,Austria
-2020-06-02,Austria,partial_school_closure,,partial_school_closure,7,,End of School Closure,end,top right,Austria
+2020-05-03,Austria,school_closure,,school_closure,7,,End of School Closure,end,top right,Austria
+2020-05-04,Austria,partial_school_closure,https://www.vienna.at/schulen-in-oesterreich-oeffnen-wieder-so-wird-der-unterricht-ablaufen/6598137,partial_school_closure1,7,Final year students,Final year students allowed back,start,top right,Austria
+2020-05-17,Austria,partial_school_closure,,partial_school_closure1,7,,End of School Closure,end,top right,Austria
+2020-05-18,Austria,partial_school_closure,https://www.stol.it/artikel/politik/schulen-oeffnen-wieder-fuer-abschlussklassen,partial_school_closure,7,Partial School Opening,Additional students allowed back,start,top right,Austria
+2020-06-02,Austria,partial_school_closure,,partial_school_closure,7,,All students allowed back,end,top right,Austria
 2020-03-16,Austria,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,2,Self isolation,Self isolation in case of symptoms,start,top right,Austria
 9999-01-01,Austria,self_isolation,,self_isolation,2,,End of Self isolation,end,top right,Austria
 2020-03-16,Austria,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,1,Social distancing rules,Social distancing rules,start,top right,Austria
