@@ -208,7 +208,7 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-03-13,Switzerland,ban_public_events,,event100,8,Ban of events > 100 people,"Ban of events > 100 people <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",start,top right,Switzerland
 2020-06-06,Switzerland,ban_public_events,,event100,8,,End of ban of events > 100 people,end,top right,Switzerland
 2020-06-07,Switzerland,ban_public_events,,event300,8,Ban of events > 300 people,"Ban of events > 300 people",start,top right,Switzerland
-9999-01-01,Switzerland,ban_public_events,,event300,8,,End of ban of events > 300 people,end,top right,Switzerland
+2020-06-22,Switzerland,ban_public_events,,event300,8,,End of ban of events > 300 people,end,top right,Switzerland
 2020-03-16,Switzerland,school_closure,,schoolClosure,7,School closure,"School closure <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",start,top right,Switzerland
 2020-05-10,Switzerland,school_closure,,schoolClosure,7,,"End of school closure <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",end,top right,Switzerland
 2020-03-17,Switzerland,social_distancing,,closureAll,6,Closure of all stores and markets,"Closure of all stores and markets <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right,Switzerland
@@ -222,7 +222,7 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-03-21,Switzerland,lockdown,,gathering5,2,Ban of gatherings > 5 people,"Ban of gatherings > 5 people <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 20.3.2020",start,top right,Switzerland
 2020-05-30,Switzerland,lockdown,,gathering5,2,,End of ban of gatherings > 5 people,end,top right,Switzerland
 2020-05-31,Switzerland,lockdown,,gathering30,2,Ban of gatherings > 30 people,"Ban of gatherings > 30 people",start,top right,Switzerland
-9999-01-01,Switzerland,lockdown,,gathering30,2,,End of ban of gatherings > 30 people,end,top right,Switzerland
+2020-06-22,Switzerland,lockdown,,gathering30,2,,End of ban of gatherings > 30 people,end,top right,Switzerland
 2020-03-02,Switzerland,self_isolation,,handwashing,1,Additional hygiene rules,FOPH communicates additional hygiene rules,start,top right,Switzerland
 9999-01-01,Switzerland,self_isolation,,handwashing,1,,,end,top right,Switzerland
 2020-02-01,Switzerland,testing,,testing1,0,Testing of all symptomatic patients,Testing of all symptomatic patients,start,top left,Switzerland
