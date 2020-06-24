@@ -207,10 +207,12 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-06-15,Switzerland,border_closure,,partialBorderClosure,9,,End of partial border closure,end,top right,Switzerland
 2020-03-13,Switzerland,ban_public_events,,event100,8,Ban of events > 100 people,"Ban of events > 100 people <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",start,top right,Switzerland
 2020-06-06,Switzerland,ban_public_events,,event100,8,,End of ban of events > 100 people,end,top right,Switzerland
-2020-06-07,Switzerland,ban_public_events,,event300,8,Ban of events > 300 people,"Ban of events > 300 people",start,top right,Switzerland
+2020-06-07,Switzerland,ban_public_events,,event300,8,Ban of events > 300 people,Ban of events > 300 people,start,top right,Switzerland
 2020-06-22,Switzerland,ban_public_events,,event300,8,,End of ban of events > 300 people,end,top right,Switzerland
 2020-03-16,Switzerland,school_closure,,schoolClosure,7,School closure,"School closure <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",start,top right,Switzerland
-2020-05-10,Switzerland,school_closure,,schoolClosure,7,,"End of school closure <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",end,top right,Switzerland
+2020-05-10,Switzerland,school_closure,,schoolClosure,7,,"End of full school closure <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",end,top right,Switzerland
+2020-05-11,Switzerland,school_closure,https://www.swissinfo.ch/ger/gesellschaft/corona-krise-schweiz/45590096,partial_school_closure,7,Partial School Closure,Partial School Closure,start,top right,Switzerland
+2020-06-07,Switzerland,school_closure,https://www.swissinfo.ch/ger/gesellschaft/corona-krise-schweiz/45590096,partial_school_closure,7,,End of partial School Closure,end,top right,Switzerland
 2020-03-17,Switzerland,social_distancing,,closureAll,6,Closure of all stores and markets,"Closure of all stores and markets <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right,Switzerland
 2020-05-10,Switzerland,social_distancing,,closureAll,6,,End of closure of all stores and markets,end,top right,Switzerland
 2020-03-17,Switzerland,social_distancing,,closureZoo,5,"Closure of museums, zoos, etc.","Closure of museums, zoos, etc <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right,Switzerland
@@ -221,7 +223,7 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-05-10,Switzerland,social_distancing,,closureBars,3,,End of closure of restaurants and bars <br>,end,top right,Switzerland
 2020-03-21,Switzerland,lockdown,,gathering5,2,Ban of gatherings > 5 people,"Ban of gatherings > 5 people <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 20.3.2020",start,top right,Switzerland
 2020-05-30,Switzerland,lockdown,,gathering5,2,,End of ban of gatherings > 5 people,end,top right,Switzerland
-2020-05-31,Switzerland,lockdown,,gathering30,2,Ban of gatherings > 30 people,"Ban of gatherings > 30 people",start,top right,Switzerland
+2020-05-31,Switzerland,lockdown,,gathering30,2,Ban of gatherings > 30 people,Ban of gatherings > 30 people,start,top right,Switzerland
 2020-06-22,Switzerland,lockdown,,gathering30,2,,End of ban of gatherings > 30 people,end,top right,Switzerland
 2020-03-02,Switzerland,self_isolation,,handwashing,1,Additional hygiene rules,FOPH communicates additional hygiene rules,start,top right,Switzerland
 9999-01-01,Switzerland,self_isolation,,handwashing,1,,,end,top right,Switzerland
@@ -242,8 +244,8 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-05-10,United Kingdom,social_distancing,,social_distancing_light,7,Stay Alert,"Those who can not work from home are allowed to go again; government slogan changed to ""Stay Alert""",start,top right,United Kingdom
 9999-01-01,United Kingdom,social_distancing,,social_distancing_light,7,,End of Social distancing rules,end,top right,United Kingdom
 2020-03-20,United Kingdom,social_distancing,,closureBars,6,Closure of restaurants and pubs,Closure of restaurants and pubs,start,top right,United Kingdom
-2020-05-10,United Kingdom,social_distancing,,closureBars,6,,End of closure of restaurants and pubs <br>,end,top right,United Kingdom
+2020-07-03,United Kingdom,social_distancing,https://www.theguardian.com/culture/2020/jun/22/museums-galleries-and-cinemas-to-reopen-in-england-from-4-july,closureBars,6,,End of closure of restaurants and pubs <br>,end,top right,United Kingdom
 2020-03-24,United Kingdom,social_distancing,https://www.bbc.com/news/uk-52012432,closureAll,4,Closure of all stores and markets,Closure of all stores and markets ,start,top right,United Kingdom
 9999-01-01,United Kingdom,social_distancing,,closureAll,4,,End of closure of all stores and markets,end,top right,United Kingdom
 2020-03-20,United Kingdom,social_distancing,,closureZoo,5,"Closure of museums, entertainment venues, etc.","Closure of museums, entertainment venues, etc.",start,top right,United Kingdom
-9999-01-01,United Kingdom,social_distancing,,closureZoo,5,,End of closure of museums ,end,top right,United Kingdom
+2020-07-03,United Kingdom,social_distancing,https://www.theguardian.com/culture/2020/jun/22/museums-galleries-and-cinemas-to-reopen-in-england-from-4-july,closureZoo,5,,End of closure of museums ,end,top right,United Kingdom
