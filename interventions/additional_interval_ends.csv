@@ -1,3 +1,4 @@
 date,region,data_type,explanation
 2020-04-12,Switzerland,infection_Confirmed cases,Testing intensity changed
+2020-06-25,Switzerland,infection_Confirmed cases,Federal Government covers testing costs
 2020-06-01,Netherlands,infection_Confirmed cases,Testing intensity changed
