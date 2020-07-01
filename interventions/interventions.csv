@@ -207,8 +207,10 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 9999-01-01,Sweden,social_distancing,,social_distancing,2,,End of Social distancing rules,end,top right,Sweden
 2020-04-01,Sweden,social_distancing,,nursing_homes,1,Ban on private visits to nursing homes,Ban on private visits to nursing homes,start,top right,Sweden
 9999-01-01,Sweden,social_distancing,,nursing_homes,1,,End of ban on private visits to nursing homes,end,top right,Sweden
+2020-07-06,Switzerland,mask,https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-79711.html,mask,12,Masks mandatory on public transport,"Masks mandatory on public transport",start,top right,Switzerland
+9999-01-01,Switzerland,mask,https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-79711.html,mask,12,Masks mandatory on public transport,"Masks mandatory on public transport",end,top right,Switzerland
 2020-06-25,Switzerland,app,https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html,app,11,Launch of SwissCovid App,"Launch of SwissCovid App <br>Apple/Google API",start,top left,Switzerland
-9999-01-01,Switzerland,app,https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html,app,11,Launch of SwissCovid App,"Launch of SwissCovid App",start,top right,Switzerland
+9999-01-01,Switzerland,app,https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html,app,11,Launch of SwissCovid App,"Launch of SwissCovid App",end,top right,Switzerland
 2020-02-28,Switzerland,ban_public_events,,event1000,10,Ban of events > 1000 people,"Ban of events > 1000 people <br> SR 818.101.24 COVID-19 Ordinance 1, 28.2.2020",start,top right,Switzerland
 9999-01-01,Switzerland,ban_public_events,,event1000,10,,End of ban of events > 1000 people,end,top right,Switzerland
 2020-03-13,Switzerland,border_closure,,partialBorderClosure,9,Partial border closure,"partial border closure <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",start,top right,Switzerland
