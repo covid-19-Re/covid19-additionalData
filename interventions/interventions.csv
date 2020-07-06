@@ -225,8 +225,8 @@ date,country,measure,source,name,y,text,tooltip,type,plotTextPosition,region
 2020-06-07,Switzerland,school_closure,https://www.swissinfo.ch/ger/gesellschaft/corona-krise-schweiz/45590096,partial_school_closure,7,,End of partial School Closure,end,top right,Switzerland
 2020-03-17,Switzerland,social_distancing,,closureAll,6,Closure of all stores and markets,"Closure of all stores and markets <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right,Switzerland
 2020-05-10,Switzerland,social_distancing,,closureAll,6,,End of closure of all stores and markets,end,top right,Switzerland
-2020-03-17,Switzerland,social_distancing,,closureZoo,5,"Closure of museums, zoos, etc.","Closure of museums, zoos, etc <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right,Switzerland
-2020-06-06,Switzerland,social_distancing,,closureZoo,5,,"End of closure of museums, zoos, etc.",end,top right,Switzerland
+2020-03-17,Switzerland,social_distancing,,closureZoo,5,"Closure of museums, zoos, nightclubs, etc.","Closure of museums, zoos, nightclubs, etc. <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right,Switzerland
+2020-06-06,Switzerland,social_distancing,,closureZoo,5,,"End of closure of museums, zoos, nightclubs, etc.",end,top right,Switzerland
 2020-03-17,Switzerland,social_distancing,,closureHair,4,"Closure of hairdresser, hardware stores & garden centers","Closure of hairdresser, hardware stores & garden centers <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right,Switzerland
 2020-04-26,Switzerland,social_distancing,ends on a sunday,closureHair,4,,"End of closure of hairdresser, hardware stores & garden centers <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 16.4.2020",end,top right,Switzerland
 2020-03-17,Switzerland,social_distancing,,closureBars,3,Closure of restaurants and bars,"Closure of restaurants and bars <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.3.2020",start,top right,Switzerland
