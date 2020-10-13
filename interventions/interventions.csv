@@ -207,9 +207,9 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 9999/01/01,Sweden,SWE,SWE,social_distancing,,social_distancing,2,,End of Social distancing rules,end,top right
 2020/04/01,Sweden,SWE,SWE,social_distancing,,nursing_homes,1,Ban on private visits to nursing homes,Ban on private visits to nursing homes,start,top right
 9999/01/01,Sweden,SWE,SWE,social_distancing,,nursing_homes,1,,End of ban on private visits to nursing homes,end,top right
-2020/07/06,Switzerland,CHE,CHE,mask,https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-79711.html,mask,12,Masks mandatory on public transport,Masks mandatory on public transport,start,top left
+2020/07/06,Switzerland,CHE,CHE,mask,https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-79711.html,mask,12,Masks mandatory on public transport,Masks mandatory on public transport,start,top right
 9999/01/01,Switzerland,CHE,CHE,mask,https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-79711.html,mask,12,Masks mandatory on public transport,Masks mandatory on public transport,end,top right
-2020/06/25,Switzerland,CHE,CHE,app,https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html,app,11,Launch of SwissCovid App,Launch of SwissCovid App <br>Apple/Google API,start,top left
+2020/06/25,Switzerland,CHE,CHE,app,https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html,app,11,Launch of SwissCovid App,Launch of SwissCovid App <br>Apple/Google API,start,top right
 9999/01/01,Switzerland,CHE,CHE,app,https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html,app,11,Launch of SwissCovid App,Launch of SwissCovid App,end,top right
 2020/02/28,Switzerland,CHE,CHE,ban_public_events,,event1000,10,Ban of events > 1000 people,"Ban of events > 1000 people <br> SR 818.101.24 COVID-19 Ordinance 1, 28.2.2020",start,top right
 9999/01/01,Switzerland,CHE,CHE,ban_public_events,,event1000,10,,End of ban of events > 1000 people,end,top right
