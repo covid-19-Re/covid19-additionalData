@@ -139,12 +139,12 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 9999-01-01,Italy,ITA,ITA,mask,,mask,0,,End of mandatory masks,end,top right
 2020-03-11,Hungary,HUN,HUN,lockdown,,lockdown,1,State of Emergency,State of Emergency,start,top right
 9999-01-01,Hungary,HUN,HUN,lockdown,,lockdown,1,,End of State of Emergency,end,top right
-2020-03-12,Ireland,IRE,IRE,school_closure,,school_closure,1,Start of School Closure,School Closure,start,top right
-2020-06-20,Ireland,IRE,IRE,school_closure,https://www.gov.ie/en/press-release/e5e599-government-publishes-roadmap-to-ease-covid-19-restrictions-and-reope/#phase-2-8-june,school_closure,1,,,end,top right
-2020-03-15,Ireland,IRE,IRE,social_distancing,,closureBars,2,Pubs closed,Start Pub closure,start,top right
-2020-08-10,Ireland,IRE,IRE,social_distancing,https://www.gov.ie/en/press-release/e5e599-government-publishes-roadmap-to-ease-covid-19-restrictions-and-reope/#phase-2-8-june,closureBars,2,,,end,top right
-2020-03-27,Ireland,IRE,IRE,lockdown,,lockdown,2,Stay at Home,Lockdown,start,top right
-2020-05-18,Ireland,IRE,IRE,lockdown,https://www.gov.ie/en/press-release/e5e599-government-publishes-roadmap-to-ease-covid-19-restrictions-and-reope/#phase-2-8-june,lockdown,2,,,end,top right
+2020-03-12,Ireland,IRL,IRL,school_closure,,school_closure,1,Start of School Closure,School Closure,start,top right
+2020-06-20,Ireland,IRL,IRL,school_closure,https://www.gov.ie/en/press-release/e5e599-government-publishes-roadmap-to-ease-covid-19-restrictions-and-reope/#phase-2-8-june,school_closure,1,,,end,top right
+2020-03-15,Ireland,IRL,IRL,social_distancing,,closureBars,2,Pubs closed,Start Pub closure,start,top right
+2020-08-10,Ireland,IRL,IRL,social_distancing,https://www.gov.ie/en/press-release/e5e599-government-publishes-roadmap-to-ease-covid-19-restrictions-and-reope/#phase-2-8-june,closureBars,2,,,end,top right
+2020-03-27,Ireland,IRL,IRL,lockdown,,lockdown,2,Stay at Home,Lockdown,start,top right
+2020-05-18,Ireland,IRL,IRL,lockdown,https://www.gov.ie/en/press-release/e5e599-government-publishes-roadmap-to-ease-covid-19-restrictions-and-reope/#phase-2-8-june,lockdown,2,,,end,top right
 2020-03-12,Netherlands,NLD,NLD,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,event100,8,Ban of events > 100 people,Ban of events,start,top
 2020-03-22,Netherlands,NLD,NLD,ban_public_events,ends the day before the next start,event100,8,,End of Ban of events,end,top right
 2020-03-23,Netherlands,NLD,NLD,ban_public_events,https://www.volkskrant.nl/nieuws-achtergrond/bijeenkomsten-tot-1-juni-verboden-burgemeesters-mogen-handhaven-met-forse-boetes~b41b8508/,event,8,Ban of all events,Ban of events,start,top right
@@ -245,8 +245,8 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 2020-05-10,Switzerland,CHE,CHE,school_closure,,schoolClosure,7,,"End of full school closure <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",end,top right
 2020-05-11,Switzerland,CHE,CHE,school_closure,https://www.swissinfo.ch/ger/gesellschaft/corona-krise-schweiz/45590096,partial_school_closure,7,Partial School Closure,Partial School Closure,start,top right
 2020-06-07,Switzerland,CHE,CHE,school_closure,https://www.swissinfo.ch/ger/gesellschaft/corona-krise-schweiz/45590096,partial_school_closure,7,,End of partial School Closure,end,top right
-2020-03-17,Switzerland,CHE,CHE,lockdown,,closureAll,6,Closure of all stores and markets,"Closure of all stores and markets <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right
-2020-05-10,Switzerland,CHE,CHE,lockdown,,closureAll,6,,End of closure of all stores and markets,end,top right
+2020-03-17,Switzerland,CHE,CHE,lockdown,,lockdown,6,Closure of all stores and markets,"Closure of all stores and markets <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right
+2020-05-10,Switzerland,CHE,CHE,lockdown,,lockdown,6,,End of closure of all stores and markets,end,top right
 2020-03-17,Switzerland,CHE,CHE,social_distancing,,closureZoo,5,"Closure of museums, zoos, nightclubs, etc.","Closure of museums, zoos, nightclubs, etc. <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right
 2020-06-06,Switzerland,CHE,CHE,social_distancing,,closureZoo,5,,"End of closure of museums, zoos, nightclubs, etc.",end,top right
 2020-03-17,Switzerland,CHE,CHE,social_distancing,,closureHair,4,"Closure of hairdresser, hardware stores & garden centers","Closure of hairdresser, hardware stores & garden centers <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right
@@ -269,8 +269,8 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 2020-09-01,Turkey,TUR,TUR,school_closure,,schoolClosure,2,,End of full school closure,end,top right
 2020-03-24,United Kingdom,GBR,GBR,ban_public_events,https://www.bbc.com/news/uk-52012432,ban_public_events,2,Ban of events,Ban of events,start,top right
 9999-01-01,United Kingdom,GBR,GBR,ban_public_events,,ban_public_events,2,,End of Ban of events,end,top right
-2020-03-24,United Kingdom,GBR,GBR,lockdown,https://www.bbc.com/news/uk-52012432,gathering2,1,Ban of gatherings > 2 people,Ban of gatherings > 2 people,start,top right
-9999-01-01,United Kingdom,GBR,GBR,lockdown,,gathering2,1,,End of gathering ban,end,top right
+2020-03-24,United Kingdom,GBR,GBR,lockdown,https://www.bbc.com/news/uk-52012432,lockdown,1,Ban of gatherings > 2 people,Ban of gatherings > 2 people,start,top right
+9999-01-01,United Kingdom,GBR,GBR,lockdown,,lockdown,1,,End of gathering ban,end,top right
 2020-03-23,United Kingdom,GBR,GBR,school_closure,https://www.gov.uk/government/publications/covid-19-school-closures/guidance-for-schools-about-temporarily-closing,school_closure,3,School Closure,School Closure,start,top right
 9999-01-01,United Kingdom,GBR,GBR,school_closure,,school_closure,3,,End of School Closure,end,top right
 2020-03-12,United Kingdom,GBR,GBR,self_isolation,https://www.bbc.com/news/uk-51857856,self_isolation,8,Advice to self isolate,Advice to self isolate if experiencing symptoms,start,top right
@@ -281,7 +281,7 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 9999-01-01,United Kingdom,GBR,GBR,social_distancing,,social_distancing_light,7,,End of Social distancing rules,end,top right
 2020-03-20,United Kingdom,GBR,GBR,social_distancing,,closureBars,6,Closure of restaurants and pubs,Closure of restaurants and pubs,start,top right
 2020-07-03,United Kingdom,GBR,GBR,social_distancing,https://www.theguardian.com/culture/2020/jun/22/museums-galleries-and-cinemas-to-reopen-in-england-from-4-july,closureBars,6,,End of closure of restaurants and pubs <br>,end,top right
-2020-03-24,United Kingdom,GBR,GBR,social_distancing,https://www.bbc.com/news/uk-52012432,closureAll,4,Closure of all stores and markets,Closure of all stores and markets,start,top right
-9999-01-01,United Kingdom,GBR,GBR,social_distancing,,closureAll,4,,End of closure of all stores and markets,end,top right
+2020-03-24,United Kingdom,GBR,GBR,lockdown,https://www.bbc.com/news/uk-52012432,closureAll,4,Closure of all stores and markets,Closure of all stores and markets,start,top right
+2020-05-10,United Kingdom,GBR,GBR,lockdown,,closureAll,4,,End of closure of all stores and markets,end,top right
 2020-03-20,United Kingdom,GBR,GBR,social_distancing,,closureZoo,5,"Closure of museums, entertainment venues, etc.","Closure of museums, entertainment venues, etc.",start,top right
 2020-07-03,United Kingdom,GBR,GBR,social_distancing,https://www.theguardian.com/culture/2020/jun/22/museums-galleries-and-cinemas-to-reopen-in-england-from-4-july,closureZoo,5,,End of closure of museums,end,top right
