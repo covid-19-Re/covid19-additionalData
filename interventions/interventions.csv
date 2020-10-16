@@ -169,16 +169,18 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 2020-05-31,Netherlands,NLD,NLD,lockdown,opening up from 1. June; https://nos.nl/collectie/13824/artikel/2334451-versoepelingen-een-feit-dit-verandert-er-vanaf-1-juni,lockdown,1,,End of Social distancing rules,end,top right
 2020-06-01,Netherlands,NLD,NLD,testing,https://nos.nl/artikel/2334835-vanaf-1-juni-kan-iedereen-in-nederland-op-het-coronavirus-getest-worden.html,testing1,0,Testing of all symptomatic patients,Testing of all symptomatic patients - independent of occupation,start,top left
 9999-01-01,Netherlands,NLD,NLD,testing,,testing1,0,Testing of all symptomatic patients,stop testing of all symptomatic patients,end,top right
-2020-03-12,Norway,NOR,NOR,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,Ban of events,Ban of events,start,top right
-9999-01-01,Norway,NOR,NOR,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,2,,End of Ban of events,end,top right
-2020-03-24,Norway,NOR,NOR,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,Lockdown,Lockdown,start,top right
-9999-01-01,Norway,NOR,NOR,lockdown,https://mrc-ide.github.io/covid19estimates/#/interventions,lockdown,3,,End of Lockdown,end,top right
-2020-03-13,Norway,NOR,NOR,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,School Closure,School Closure,start,top right
-9999-01-01,Norway,NOR,NOR,school_closure,https://mrc-ide.github.io/covid19estimates/#/interventions,school_closure,1,,End of School Closure,end,top right
-2020-03-15,Norway,NOR,NOR,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,Self isolation,Self isolation,start,top right
-9999-01-01,Norway,NOR,NOR,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,5,,End of Self isolation,end,top right
-2020-03-16,Norway,NOR,NOR,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,Social distancing rules,Social distancing rules,start,top right
-9999-01-01,Norway,NOR,NOR,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right
+2020-03-12,Norway,NOR,NOR,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,5,Ban of events > 50 people,Ban of events (>50 people in Oslo),start,top right
+9999-01-01,Norway,NOR,NOR,ban_public_events,https://mrc-ide.github.io/covid19estimates/#/interventions,ban_public_events,5,,End of Ban of events,end,top right
+2020-03-14,Norway,NOR,NOR,lockdown,https://de.wikipedia.org/wiki/COVID-19-Pandemie_in_Norwegen#M%C3%A4rz,lockdown,1,Ban on visits to secondary homes,Ban on visits to secondary homes,start,top right
+2020-04-20,Norway,NOR,NOR,lockdown,,lockdown,1,,End of Ban on visits to secondary homes,end,top right
+2020-03-13,Norway,NOR,NOR,school_closure,https://www.euractiv.com/section/coronavirus/short_news/norway-update-covid-19/,school_closure,3,School Closure,School Closure,start,top right
+2020-04-27,Norway,NOR,NOR,school_closure,https://de.wikipedia.org/wiki/COVID-19-Pandemie_in_Norwegen#M%C3%A4rz,school_closure,3,,End of School Closure,end,top right
+2020-03-15,Norway,NOR,NOR,self_isolation,https://www.euractiv.com/section/coronavirus/short_news/norway-update-covid-19/,self_isolation,4,Self isolation,Self isolation,start,top right
+9999-01-01,Norway,NOR,NOR,self_isolation,https://mrc-ide.github.io/covid19estimates/#/interventions,self_isolation,4,,End of Self isolation,end,top right
+2020-03-16,Norway,NOR,NOR,social_distancing,https://www.regjeringen.no/en/topics/koronavirus-covid-19/timeline-for-news-from-norwegian-ministries-about-the-coronavirus-disease-covid-19/id2692402/,social_distancing,2,Social distancing rules,Social distancing rules,start,top right
+9999-01-01,Norway,NOR,NOR,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,2,,End of Social distancing rules,end,top right
+2020-04-16,Norway,NOR,NOR,app,https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html,app,6,Launch of Smittestop App,Launch of Smittestop,start,top right
+9999-01-01,Norway,NOR,NOR,app,https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html,app,6,Launch of Smittestop App,Launch of Smittestop App,end,top right
 2020-03-25,Poland,POL,POL,lockdown,,lockdown,1,Lockdown,Lockdown,start,top right
 2020-04-19,Poland,POL,POL,lockdown,,lockdown,1,,End of Lockdown,end,top right
 2020-03-10,Poland,POL,POL,ban_public_events,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Poland#Pre-4_March_2020,ban_public_events,1,Ban of events > 1000 people,Ban of events > 1000 people,start,top right
@@ -197,10 +199,14 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 9999-01-01,Portugal,PRT,PRT,social_distancing,https://mrc-ide.github.io/covid19estimates/#/interventions,social_distancing,4,,End of Social distancing rules,end,top right
 2020-03-16,Romania,ROU,ROU,social_distancing,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Romania#21_February%E2%88%922_March:_First_cases_and_early_preventive_measures,soe,1,State of Emergency,State of Emergency,start,top right
 2020-05-14,Romania,ROU,ROU,social_distancing,,soe,1,,End of State of Emergency,end,top right
-2020-03-24,Romania,ROU,ROU,lockdown,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Romania#21_February%E2%88%922_March:_First_cases_and_early_preventive_measures,lockdown,1,Lockdown,Lockdown,start,top right
-2020-05-14,Romania,ROU,ROU,lockdown,,lockdown,1,,End of Lockdown,end,top right
+2020-03-24,Romania,ROU,ROU,lockdown,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Romania#21_February%E2%88%922_March:_First_cases_and_early_preventive_measures,lockdown,2,Lockdown,Lockdown,start,top right
+2020-05-14,Romania,ROU,ROU,lockdown,,lockdown,2,,End of Lockdown,end,top right
 2020-03-30,Russian Federation,RUS,RUS,lockdown,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Russia,lockdown,1,Lockdown,"Lockdown: non-working period, stay at  home",start,top right
 2020-05-12,Russian Federation,RUS,RUS,lockdown,,lockdown,1,,End of Lockdown,end,top right
+2020-03-20,Slovenia,SVN,SVN,lockdown,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Slovenia,lockdown,1,Lockdown,Lockdown,start,top right
+2020-05-15,Slovenia,SVN,SVN,lockdown,https://www.independent.co.uk/news/world/europe/oronavirus-slovenia-end-epidemic-lockdown-lifted-a9516841.html,lockdown,1,,End of Lockdown,end,top right
+2020-03-09,Slovenia,SVN,SVN,ban_public_events,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Slovenia,ban_public_events,2,Ban of events > 100 people,Ban of events > 100 people,start,top right
+9999-01-01,Slovenia,SVN,SVN,ban_public_events,https://www.independent.co.uk/news/world/europe/oronavirus-slovenia-end-epidemic-lockdown-lifted-a9516841.html,ban_public_events,2,,End of Ban Events,end,top right
 2020-03-14,Spain,ESP,ESP,ban_public_events,https://english.elpais.com/society/2020-03-15/spains-state-of-alarm-the-key-measures-that-are-now-in-place.html,ban_public_events,2,Ban of events,Ban of events,start,top right
 9999-01-01,Spain,ESP,ESP,ban_public_events,,ban_public_events,2,,End of Ban of events,end,top right
 2020-03-14,Spain,ESP,ESP,lockdown,https://www.elmundo.es/espana/2020/03/13/5e6b844e21efa0dd258b45a5.html,lockdown,8,Nationwide state of alarm,Nationwide state of alarm,start,top right
