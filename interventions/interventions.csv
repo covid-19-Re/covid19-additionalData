@@ -237,9 +237,13 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 2020-09-30,Sweden,SWE,SWE,social_distancing,https://www.regeringen.se/artiklar/2020/09/besoksforbudet-pa-aldreboenden-upphor-1-oktober/,nursing_homes,1,,End of ban on private visits to nursing homes,end,top right
 2020-07-06,Switzerland,CHE,CHE,mask,https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-79711.html,mask,12,Masks mandatory on public transport,Masks mandatory on public transport,start,top right
 9999-01-01,Switzerland,CHE,CHE,mask,https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-79711.html,mask,12,Masks mandatory on public transport,Masks mandatory on public transport,end,top right
+2020-10-19,Switzerland,CHE,CHE,mask,,mask,5,Masks mandatory in public buildings,Masks mandatory in public buildings,start,top right
+9999-01-01,Switzerland,CHE,CHE,mask,,mask,5,,End of Masks mandatory in public buildings,end,top right
 2020-06-25,Switzerland,CHE,CHE,app,https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html,app,11,Launch of SwissCovid App,Launch of SwissCovid App <br>Apple/Google API,start,top right
 9999-01-01,Switzerland,CHE,CHE,app,https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html,app,11,Launch of SwissCovid App,Launch of SwissCovid App,end,top right
 2020-02-28,Switzerland,CHE,CHE,ban_public_events,,event1000,10,Ban of events > 1000 people,"Ban of events > 1000 people <br> SR 818.101.24 COVID-19 Ordinance 1, 28.2.2020",start,top right
+2020-09-30,Switzerland,CHE,CHE,ban_public_events,,event1000,10,,End of ban of events > 1000 people,end,top right
+2020-10-19,Switzerland,CHE,CHE,ban_public_events,,event1000,10,Ban of events > 1000 people,"Ban of events > 1000 people <br> SR 818.101.24 COVID-19 Ordinance 1, 28.2.2020",start,top right
 9999-01-01,Switzerland,CHE,CHE,ban_public_events,,event1000,10,,End of ban of events > 1000 people,end,top right
 2020-03-13,Switzerland,CHE,CHE,border_closure,,partialBorderClosure,9,Partial border closure,"partial border closure <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",start,top right
 2020-06-15,Switzerland,CHE,CHE,border_closure,,partialBorderClosure,9,,End of partial border closure,end,top right
@@ -253,6 +257,8 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 2020-06-07,Switzerland,CHE,CHE,school_closure,https://www.swissinfo.ch/ger/gesellschaft/corona-krise-schweiz/45590096,partial_school_closure,7,,End of partial School Closure,end,top right
 2020-03-17,Switzerland,CHE,CHE,lockdown,,lockdown,6,Closure of all stores and markets,"Closure of all stores and markets <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right
 2020-05-10,Switzerland,CHE,CHE,lockdown,,lockdown,6,,End of closure of all stores and markets,end,top right
+2020-10-19,Switzerland,CHE,CHE,social_distancing,,part_lock,6,Home office recommended,Home office recommended,start,top right
+9999-01-01,Switzerland,CHE,CHE,social_distancing,,part_lock,6,,End of Home office recommendation,end,top right
 2020-03-17,Switzerland,CHE,CHE,social_distancing,,closureZoo,5,"Closure of museums, zoos, nightclubs, etc.","Closure of museums, zoos, nightclubs, etc. <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right
 2020-06-06,Switzerland,CHE,CHE,social_distancing,,closureZoo,5,,"End of closure of museums, zoos, nightclubs, etc.",end,top right
 2020-03-17,Switzerland,CHE,CHE,social_distancing,,closureHair,4,"Closure of hairdresser, hardware stores & garden centers","Closure of hairdresser, hardware stores & garden centers <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020, Status as of 17.03.2020",start,top right
@@ -263,6 +269,8 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 2020-05-30,Switzerland,CHE,CHE,lockdown,,gathering5,2,,End of ban of gatherings > 5 people,end,top right
 2020-05-31,Switzerland,CHE,CHE,lockdown,,gathering30,2,Ban of gatherings > 30 people,Ban of gatherings > 30 people,start,top right
 2020-06-22,Switzerland,CHE,CHE,lockdown,,gathering30,2,,End of ban of gatherings > 30 people,end,top right
+2020-10-19,Switzerland,CHE,CHE,lockdown,,gathering15,2,Ban of spontaneous gatherings > 15 people,Ban of gatherings > 15 people,start,top right
+9999-01-01,Switzerland,CHE,CHE,lockdown,,gathering15,2,,End of ban of gatherings > 15 people,end,top right
 2020-03-02,Switzerland,CHE,CHE,self_isolation,,handwashing,1,Additional hygiene rules,FOPH communicates additional hygiene rules,start,top right
 9999-01-01,Switzerland,CHE,CHE,self_isolation,,handwashing,1,,,end,top right
 2020-02-01,Switzerland,CHE,CHE,testing,,testing1,0,Testing of all symptomatic patients,Testing of all symptomatic patients,start,top left
