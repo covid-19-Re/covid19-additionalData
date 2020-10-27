@@ -243,8 +243,6 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 9999-01-01,Switzerland,CHE,CHE,app,https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html,app,11,Launch of SwissCovid App,Launch of SwissCovid App,end,top right
 2020-02-28,Switzerland,CHE,CHE,ban_public_events,,event1000,10,Ban of events > 1000 people,"Ban of events > 1000 people <br> SR 818.101.24 COVID-19 Ordinance 1, 28.2.2020",start,top right
 2020-09-30,Switzerland,CHE,CHE,ban_public_events,,event1000,10,,End of ban of events > 1000 people,end,top right
-2020-10-19,Switzerland,CHE,CHE,ban_public_events,,event1000_2,10,Ban of events > 1000 people,"Ban of events > 1000 people",start,top right
-9999-01-01,Switzerland,CHE,CHE,ban_public_events,,event1000_2,10,,End of ban of events > 1000 people,end,top right
 2020-03-13,Switzerland,CHE,CHE,border_closure,,partialBorderClosure,9,Partial border closure,"partial border closure <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",start,top right
 2020-06-15,Switzerland,CHE,CHE,border_closure,,partialBorderClosure,9,,End of partial border closure,end,top right
 2020-03-13,Switzerland,CHE,CHE,ban_public_events,,event100,8,Ban of events > 100 people,"Ban of events > 100 people <br> SR 818.101.24 COVID-19 Ordinance 2, 13.3.2020",start,top right
@@ -269,7 +267,7 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 2020-05-30,Switzerland,CHE,CHE,lockdown,,gathering5,2,,End of ban of gatherings > 5 people,end,top right
 2020-05-31,Switzerland,CHE,CHE,lockdown,,gathering30,2,Ban of gatherings > 30 people,Ban of gatherings > 30 people,start,top right
 2020-06-22,Switzerland,CHE,CHE,lockdown,,gathering30,2,,End of ban of gatherings > 30 people,end,top right
-2020-10-19,Switzerland,CHE,CHE,lockdown,,gathering15,2,Ban of spontaneous gatherings > 15 people,Ban of gatherings > 15 people,start,top right
+2020-10-19,Switzerland,CHE,CHE,lockdown,,gathering15,2,Ban of spontaneous gatherings > 15 people,Ban of spontaneous gatherings > 15 people,start,top right
 9999-01-01,Switzerland,CHE,CHE,lockdown,,gathering15,2,,End of ban of gatherings > 15 people,end,top right
 2020-03-02,Switzerland,CHE,CHE,self_isolation,,handwashing,1,Additional hygiene rules,FOPH communicates additional hygiene rules,start,top right
 9999-01-01,Switzerland,CHE,CHE,self_isolation,,handwashing,1,,,end,top right
