@@ -278,7 +278,7 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 2020-05-31,Switzerland,CHE,CHE,lockdown,,gathering30,7,Ban of gatherings > 30 people,Ban of gatherings > 30 people,start,top right
 2020-06-22,Switzerland,CHE,CHE,lockdown,,gathering30,7,,End of ban of gatherings > 30 people,end,top right
 2020-10-19,Switzerland,CHE,CHE,lockdown,,gathering15,7,Ban of spontaneous gatherings > 15 people,Ban of spontaneous gatherings > 15 people,start,top left
-9999-01-01,Switzerland,CHE,CHE,lockdown,,gathering15,7,,End of ban of gatherings > 15 people,end,top right
+9999-01-01,Switzerland,CHE,CHE,lockdown,,gathering15,7,,End of ban of spontaneous gatherings > 15 people,end,top right
 2020-10-28,Switzerland,CHE,CHE,lockdown,,gathering10,8,Ban of private gatherings > 10 people,Ban of private gatherings > 10 people,start,top left
 9999-01-01,Switzerland,CHE,CHE,lockdown,,gathering10,8,,End of ban of private gatherings > 10 people,end,top right
 2020-03-02,Switzerland,CHE,CHE,self_isolation,,handwashing,1,Additional hygiene rules,FOPH communicates additional hygiene rules,start,top right
