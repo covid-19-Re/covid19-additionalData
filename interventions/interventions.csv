@@ -241,10 +241,14 @@ date,country,countryIso3,region,measure,source,name,y,text,tooltip,type,plotText
 9999-01-01,Switzerland,CHE,CHE,mask,,mask,12.5,,End of Masks mandatory in public buildings,end,top right
 2020-10-28,Switzerland,CHE,CHE,mask,,mask,13,Masks mandatory in busy public spaces,Masks mandatory in busy public spaces,start,top left
 9999-01-01,Switzerland,CHE,CHE,mask,,mask,13,,End of Masks mandatory in busy public spaces,end,top right
-2020-10-28,Switzerland,CHE,CHE,restrict_restaurant,,mask,2,Restrictions for Restaurants,Restrictions for Restaurants,start,top left
-9999-01-01,Switzerland,CHE,CHE,restrict_restaurant,,mask,2,,End of Restrictions for Restaurants,end,top right
-2020-10-28,Switzerland,CHE,CHE,closure_clubs,,mask,4,Closure of night clubs,Closure of night clubs,start,top left
-9999-01-01,Switzerland,CHE,CHE,closure_clubs,,mask,4,,End of Closure of night clubs,end,top right
+2020-10-28,Switzerland,CHE,CHE,restrict_restaurant,,restaurants1,2,Restrictions for Restaurants,Restrictions for Restaurants,start,top left
+2020-12-22,Switzerland,CHE,CHE,restrict_restaurant,,restaurants1,2,,,end,top right
+2020-12-22,Switzerland,CHE,CHE,restrict_restaurant,,restaurants2,2,Closure of Restaurants and Bars,Closure of Restaurants and Bars,start,top left
+9999-01-01,Switzerland,CHE,CHE,restrict_restaurant,,restaurants2,2,,End of Closure of Restaurants and Bars,end,top right
+2020-10-28,Switzerland,CHE,CHE,social_distancing,,closureClubs1,4,Closure of night clubs,Closure of night clubs,start,top left
+2020-12-22,Switzerland,CHE,CHE,social_distancing,,closureClubs1,4,,,end,top right
+2020-12-22,Switzerland,CHE,CHE,social_distancing,,closureClubs2,4,"Closure of museums, zoos, nightclubs, etc.","Closure of museums, zoos, nightclubs, etc.",start,top left
+9999-01-01,Switzerland,CHE,CHE,social_distancing,,closureClubs2,4,,"End of closure of museums, zoos, nightclubs, etc.",end,top right
 2020-06-25,Switzerland,CHE,CHE,app,https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html,app,11,Launch of SwissCovid App,Launch of SwissCovid App <br>Apple/Google API,start,top right
 9999-01-01,Switzerland,CHE,CHE,app,https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html,app,11,Launch of SwissCovid App,Launch of SwissCovid App,end,top right
 2020-02-28,Switzerland,CHE,CHE,ban_public_events,,event1000,10,Ban of events > 1000 people,"Ban of events > 1000 people <br> SR 818.101.24 COVID-19 Ordinance 1, 28.2.2020",start,top right
